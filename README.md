@@ -3,3 +3,6 @@ Source code for the paper: Rapid Development and Performance Evaluation of a Pot
 
 
 ## Requires ROS
+Project was performed in Ubuntu 20.04 using ROS Noetic
+Uses the py-urtde python library for control
+Uses Facebook's Detectron 2 for the computer vision
